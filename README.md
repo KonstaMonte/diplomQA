@@ -38,3 +38,5 @@
 
 `gradlew allureServe`
 
+Documents
+https://github.com/KonstaMonte/diplomQA/blob/main/documents/Plan.md
